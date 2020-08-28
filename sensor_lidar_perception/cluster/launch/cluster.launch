@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="cluster"  type="cluster_node"  name="cluster_node"  output="screen"/>
+</launch>

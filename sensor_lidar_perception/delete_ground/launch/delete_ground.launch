@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="delete_ground"  type="delete_ground_node"  name="delete_ground_node"  output="screen"/>
+</launch>
